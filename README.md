@@ -41,8 +41,11 @@ It's __important__ to understand that currently only a __single__  command with 
 
 ## Installation
 
-[![Built with Devbox](https://jetpack.io/img/devbox/shield_galaxy.svg)](https://github.com/KarolosLykos/duration/new)
+[![Open In Devbox.sh](https://jetpack.io/img/devbox/open-in-devbox.svg)](https://github.com/KarolosLykos/duration)
 
+[![Built with Devbox](https://jetpack.io/img/devbox/shield_galaxy.svg)](https://github.com/KarolosLykos/duration)
+
+[![Built with Devbox](https://jetpack.io/img/devbox/shield_moon.svg)](https://jetpack.io/devbox/docs/contributor-quickstart/)
 ### From Source
 
 In order to build from source you need `go` and `make` installed.
